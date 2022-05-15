@@ -2,7 +2,9 @@
 """
 Charles Truscott
 ЧАРЛьЗ ТРУСКОТТ
-
+runfile('C:/Users/user/Desktop/куажратик.py', wdir='C:/Users/user/Desktop')
+The quadratic root of 2481 is 7.057594322547102. 7.057594322547102 ** 4 = 2481.0
+2481 ЗТО КУАДРАТЙК РУТ 7.057594322547102
 
 """
 
